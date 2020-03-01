@@ -1,0 +1,22 @@
+{
+  "name": "groundedskyed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ka-veronica/groundedSkyed.git"
+  },
+  "author": "Veronica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ka-veronica/groundedSkyed/issues"
+  },
+  "homepage": "https://ka-veronica.github.io/groundedSkyed",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
